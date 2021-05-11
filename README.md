@@ -2,6 +2,8 @@
 
 # How to run
 ```
+git clone https://github.com/daiquangduy/react-native-template.git
+cd react-native-template
 yarn
 ```
 
